@@ -10,3 +10,5 @@ and take the background idea from codepen **( https://codepen.io/ )**.
 ### Usage
 ---
 
+#### Authors and acknowledgment:
+We would like to express our sincere gratitude to our project supervisor **Eng. Atheer abdullah**, for believing in us and in our project, the continuous support in this project, enthusiastic encouragement, useful critiques, motivation, and immense knowledge. 
