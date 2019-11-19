@@ -32,5 +32,8 @@ Go to https://www.w3schools.com/html/ when need to help to create web pages.
 
 When need to example about create web pages go to https://codepen.io/
 
+## License:
+---
+
 ## Authors and acknowledgment:
 We would like to express our sincere gratitude to our project supervisor **Eng. Atheer abdullah**, for believing in us and in our project, the continuous support in this project, enthusiastic encouragement, useful critiques, motivation, and immense knowledge. 
