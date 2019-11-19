@@ -8,8 +8,8 @@ we use **JavaScript** for make HTML pages dynamic and interactive.
 and take the background idea from codepen **( https://codepen.io/ )**.
 
 ## Usage
-we use javascript code for background
-document.write( '    <!--The Background-->\n' );
+***we use javascript code for background***
+>document.write( '    <!--The Background-->\n' );
 document.write( '        <div class=\"g-container\">\n' );
 document.write( '                <div id=\"galaxy\">\n' );
 document.write( '                        <div class=\"bg\"></div>\n' );
